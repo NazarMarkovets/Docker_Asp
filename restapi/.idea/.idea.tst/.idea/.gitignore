@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.restapi.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../:\DATA\repositories\restapi\.idea\.idea.restapi\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
